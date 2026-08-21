@@ -1,0 +1,40 @@
+MEETING NOTES — Product Strategy Sync
+Date: 2024-06-15
+Attendees: Sarah (PM), Mike (Eng), Anna (Design), Raj (QA), Tom (CEO)
+Duration: 60 minutes
+
+AGENDA
+1. Q2 retrospective
+2. Q3 roadmap priorities
+3. Hiring plan
+4. Customer feedback review
+
+DISCUSSION
+
+Sarah opened with the Q2 retrospective. We shipped 23 features (vs 28 planned), with 4 features slipping to Q3. The main blockers were: (a) the migration to the new analytics engine took 3 weeks longer than estimated, (b) two senior engineers were on extended leave in May. Mike noted that code review throughput dropped 40% during that period.
+
+Mike presented engineering metrics: 847 PRs merged, average review time 6.2 hours (down from 9.1 in Q1), 12 production incidents (3 P1, 9 P2). The new deployment pipeline reduced release time from 45 minutes to 8 minutes. We need to invest in better integration tests — current coverage is 62%, target is 80%.
+
+Anna shared design system updates: 14 new components shipped, design tokens standardized, accessibility audit completed with 94/100 score. The new dashboard layout tested well with 12 users — task completion rate improved from 68% to 89%.
+
+Raj raised concerns about test data quality. The QA team has been using synthetic data which doesn't reflect real-world edge cases. Proposal: allocate 2 weeks to build a realistic anonymized dataset for testing. Tom approved the time allocation.
+
+Q3 ROADMAP DECISIONS
+- P1: RAG-based chatbot (target: end of July)
+- P1: PDF/Word upload support (target: mid August)
+- P2: Real-time collaboration (target: end of September)
+- P3: Mobile app v2 (target: October)
+- Deprioritized: Legacy API v1 sunset (move to Q4)
+
+HIRING
+Approved: 2 senior backend engineers, 1 ML engineer, 1 designer.
+Budget: $580k annualized. Tom to sign off by Friday.
+
+ACTION ITEMS
+- Sarah: draft Q3 OKRs by 06/22
+- Mike: hire ML engineer by 07/15
+- Anna: publish updated design system docs by 06/30
+- Raj: build test data pipeline by 07/10
+- Tom: approve hiring budget by 06/21
+
+Next sync: 2024-06-29 10:00 AM.

@@ -1,0 +1,6 @@
+user_id,name,profile,preferences,metadata
+1,Alice,"{"age":30,"city":"NYC","interests":["music","coding"]}",{"theme":"dark","notifications":true},{"created":"2024-01-15","source":"signup","verified":true}
+2,Bob,"{"age":25,"city":"LA","interests":["sports"]}",{"theme":"light","notifications":false},{"created":"2024-02-20","source":"referral","verified":false}
+3,Carol,"{"age":35,"city":"SF","interests":["reading","travel","cooking"]}",{"theme":"dark","notifications":true},{"created":"2024-03-10","source":"signup","verified":true}
+4,Dave,"{"age":28,"city":"Seattle","interests":["gaming"]}",{"theme":"system","notifications":true},{"created":"2024-04-05","source":"signup","verified":true}
+5,Eve,"{"age":42,"city":"Boston","interests":["art","music","hiking","photography"]}",{"theme":"dark","notifications":false},{"created":"2024-05-12","source":"referral","verified":true}

@@ -1,0 +1,49 @@
+SURVEY: Customer Satisfaction Q2 2024
+250 responses collected between 2024-04-01 and 2024-06-30
+
+Response 1 (Rating: 5/5):
+I absolutely love this product! The team has done a fantastic job with the latest update. The interface is intuitive and the new dashboard feature saves me at least 2 hours every week. Keep up the great work!
+
+Response 2 (Rating: 2/5):
+Honestly disappointed. The app crashes every time I try to upload a file larger than 10MB. I reported this three weeks ago and still no fix. Considering switching to a competitor. Support ticket #4521 was closed without resolution.
+
+Response 3 (Rating: 4/5):
+Good product overall but there are some UX issues. The settings menu is hard to find and the dark mode toggle is buried three levels deep. Once I figured out where everything was, the experience improved dramatically.
+
+Response 4 (Rating: 1/5):
+Terrible. Won't load on my phone (Samsung S22, Android 14). Just shows a white screen after the splash. Tried reinstalling twice. Very frustrated.
+
+Response 5 (Rating: 5/5):
+Best analytics tool I've used in years. The AI-powered insights feature is incredible — it surfaces patterns I would have missed. The export options are comprehensive (Excel, CSV, PDF, JSON). Customer support responded to my question in under 2 hours. Highly recommended!
+
+Response 6 (Rating: 3/5):
+It's okay. Does what it says but nothing more. Pricing is fair but the free tier is too limited. Would like to see more integrations with Slack and Notion. The API documentation could be better — had to figure out authentication by trial and error.
+
+Response 7 (Rating: 5/5):
+Migrated from a competitor and never looked back. The onboarding was smooth, the team import feature worked flawlessly, and the support team helped us customize our dashboard. Our productivity has increased 30% since switching.
+
+Response 8 (Rating: 4/5):
+Really solid product. The only complaint is the mobile app — it feels like a stripped-down version of the web app. Otherwise everything works great. The reporting feature alone is worth the subscription cost.
+
+Response 9 (Rating: 2/5):
+Too expensive for what it offers. The "advanced analytics" are mostly just basic charts with fancy labels. Found a free alternative that does 80% of what this does. Cancelling my subscription.
+
+Response 10 (Rating: 5/5):
+I was skeptical at first but after using it for three months, I'm a convert. The automatic report generation saves my team 10+ hours per week. The customer success team proactively reached out to help us optimize our workflow. Worth every penny.
+
+Response 11 (Rating: 3/5):
+The product itself is fine but the pricing model is confusing. I was charged $299 last month when I expected $99 based on the pricing page. Support refunded the difference but it took 3 weeks. Needs clearer communication.
+
+Response 12 (Rating: 4/5):
+Great features, decent performance, but the learning curve is steep. Took me about a week to feel comfortable. Once you get past the initial friction, it's a powerful tool. Would benefit from interactive tutorials for new users.
+
+Response 13 (Rating: 1/5):
+Data loss! I had 6 months of analytics data and after the last update, half of my custom reports are gone. No warning, no backup. This is unacceptable for a paid product. Filing a complaint.
+
+Response 14 (Rating: 5/5):
+The new RAG-based chat feature is mind-blowing. I can ask questions about my data in plain English and get accurate answers with sources cited. This is the future of analytics.
+
+Response 15 (Rating: 3/5):
+Works as advertised but feels slow on large datasets (>100k rows). Hope performance improves in the next version. Otherwise the feature set is comprehensive.
+
+CONTACT: For follow-up on any response, contact research@company.com or call +1-555-012-3456.

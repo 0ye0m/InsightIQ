@@ -1,0 +1,10 @@
+record_id,field,value,datatype,unit
+R001,temperature,22.5,float,celsius
+R001,humidity,55,float,percent
+R001,pressure,1013,integer,kpa
+R002,temperature,25.0,float,celsius
+R002,humidity,60,float,percent
+R003,temperature,18.3,float,celsius
+R003,humidity,48,float,percent
+R003,pressure,1010,integer,kpa
+R003,wind_speed,12.5,float,mph

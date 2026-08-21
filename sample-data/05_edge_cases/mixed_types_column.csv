@@ -1,0 +1,11 @@
+id,measurement,unit,note
+1,23.5,celsius,normal
+2,25,celsius,normal
+3,high,celsius,outlier
+4,22.8,celsius,normal
+5,unknown,celsius,missing
+6,24.1,celsius,normal
+7,N/A,celsius,missing
+8,23.9,celsius,normal
+9,21.5,celsius,normal
+10,error,celsius,sensor fault

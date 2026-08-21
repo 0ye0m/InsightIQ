@@ -1,0 +1,15 @@
+{
+  "company": "Acme Corp",
+  "founded": 1985,
+  "employees": 1250,
+  "revenue_musd": 42.5,
+  "offices": [
+    "New York",
+    "London",
+    "Tokyo"
+  ],
+  "ceo": {
+    "name": "Alice Wang",
+    "since": 2020
+  }
+}

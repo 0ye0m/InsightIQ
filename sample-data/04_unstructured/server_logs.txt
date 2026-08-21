@@ -1,0 +1,200 @@
+2024-06-01T00:00:00Z [WARN] api: User logged in successfully
+2024-06-01T00:00:47Z [INFO] db: Scheduled job completed in 7405 seconds
+2024-06-01T00:01:34Z [INFO] api: Database query returned 1839 rows in 192 ms
+2024-06-01T00:02:21Z [WARN] auth: New WebSocket connection from 8291
+2024-06-01T00:03:08Z [DEBUG] db: Rate limit approaching for IP 5573
+2024-06-01T00:03:55Z [WARN] queue: Connection timeout to database replica 5364
+2024-06-01T00:04:42Z [ERROR] scheduler: Memory usage at 2175%
+2024-06-01T00:05:29Z [INFO] cache: Memory usage at 1898%
+2024-06-01T00:06:16Z [DEBUG] cron: Queue depth: 1427 messages
+2024-06-01T00:07:03Z [ERROR] auth: Memory usage at 5120%
+2024-06-01T00:07:50Z [WARN] cron: Rate limit approaching for IP 5258
+2024-06-01T00:08:37Z [INFO] queue: Scheduled job completed in 7228 seconds
+2024-06-01T00:09:24Z [INFO] db: Connection timeout to database replica 1876
+2024-06-01T00:10:11Z [INFO] auth: Rate limit approaching for IP 8889
+2024-06-01T00:10:58Z [INFO] db: Connection timeout to database replica 9406
+2024-06-01T00:11:45Z [INFO] queue: Scheduled job completed in 8857 seconds
+2024-06-01T00:12:32Z [INFO] cache: User logged in successfully
+2024-06-01T00:13:19Z [INFO] cache: Database query returned 9767 rows in 457 ms
+2024-06-01T00:14:06Z [WARN] cron: New WebSocket connection from 5827
+2024-06-01T00:14:53Z [ERROR] cron: Memory usage at 1287%
+2024-06-01T00:15:40Z [WARN] queue: Database query returned 1523 rows in 417 ms
+2024-06-01T00:16:27Z [INFO] cache: Connection timeout to database replica 7626
+2024-06-01T00:17:14Z [DEBUG] db: Queue depth: 4228 messages
+2024-06-01T00:18:01Z [INFO] cron: Scheduled job completed in 5321 seconds
+2024-06-01T00:18:48Z [INFO] cache: Cache miss for key user_session_5759
+2024-06-01T00:19:35Z [ERROR] api: Scheduled job completed in 9904 seconds
+2024-06-01T00:20:22Z [INFO] cache: Cache miss for key user_session_5340
+2024-06-01T00:21:09Z [INFO] api: Memory usage at 7553%
+2024-06-01T00:21:56Z [INFO] queue: Rate limit approaching for IP 8978
+2024-06-01T00:22:43Z [INFO] api: Rate limit approaching for IP 9683
+2024-06-01T00:23:30Z [INFO] api: Memory usage at 3870%
+2024-06-01T00:24:17Z [WARN] cron: Queue depth: 7973 messages
+2024-06-01T00:25:04Z [INFO] api: Memory usage at 1600%
+2024-06-01T00:25:51Z [INFO] cache: Cache miss for key user_session_9802
+2024-06-01T00:26:38Z [ERROR] scheduler: Authentication failed for user id 5365
+2024-06-01T00:27:25Z [WARN] auth: Rate limit approaching for IP 2277
+2024-06-01T00:28:12Z [DEBUG] cron: User logged in successfully
+2024-06-01T00:28:59Z [INFO] api: Authentication failed for user id 9469
+2024-06-01T00:29:46Z [INFO] api: Connection timeout to database replica 9344
+2024-06-01T00:30:33Z [INFO] cache: Scheduled job completed in 1463 seconds
+2024-06-01T00:31:20Z [WARN] queue: Authentication failed for user id 2090
+2024-06-01T00:32:07Z [INFO] queue: User logged in successfully
+2024-06-01T00:32:54Z [ERROR] api: Cache miss for key user_session_4624
+2024-06-01T00:33:41Z [INFO] cron: Queue depth: 6460 messages
+2024-06-01T00:34:28Z [WARN] cache: Authentication failed for user id 7131
+2024-06-01T00:35:15Z [WARN] cache: Database query returned 3084 rows in 285 ms
+2024-06-01T00:36:02Z [ERROR] api: Authentication failed for user id 2528
+2024-06-01T00:36:49Z [INFO] auth: Cache miss for key user_session_258
+2024-06-01T00:37:36Z [ERROR] cron: Authentication failed for user id 2225
+2024-06-01T00:38:23Z [WARN] cache: New WebSocket connection from 9903
+2024-06-01T00:39:10Z [WARN] cache: Memory usage at 6949%
+2024-06-01T00:39:57Z [INFO] db: Database query returned 6960 rows in 310 ms
+2024-06-01T00:40:44Z [INFO] scheduler: Rate limit approaching for IP 8221
+2024-06-01T00:41:31Z [DEBUG] queue: Scheduled job completed in 549 seconds
+2024-06-01T00:42:18Z [INFO] api: Cache miss for key user_session_9508
+2024-06-01T00:43:05Z [INFO] cron: Memory usage at 4579%
+2024-06-01T00:43:52Z [INFO] queue: Cache miss for key user_session_4018
+2024-06-01T00:44:39Z [WARN] cron: Cache miss for key user_session_8835
+2024-06-01T00:45:26Z [INFO] auth: Scheduled job completed in 8766 seconds
+2024-06-01T00:46:13Z [INFO] queue: New WebSocket connection from 9404
+2024-06-01T00:47:00Z [INFO] scheduler: Connection timeout to database replica 4739
+2024-06-01T00:47:47Z [WARN] queue: Connection timeout to database replica 9236
+2024-06-01T00:48:34Z [WARN] queue: Database query returned 9386 rows in 27 ms
+2024-06-01T00:49:21Z [DEBUG] scheduler: Queue depth: 448 messages
+2024-06-01T00:50:08Z [INFO] queue: Cache miss for key user_session_4553
+2024-06-01T00:50:55Z [WARN] api: Connection timeout to database replica 233
+2024-06-01T00:51:42Z [WARN] queue: Database query returned 7318 rows in 190 ms
+2024-06-01T00:52:29Z [INFO] cron: Rate limit approaching for IP 7945
+2024-06-01T00:53:16Z [ERROR] api: Cache miss for key user_session_2377
+2024-06-01T00:54:03Z [ERROR] scheduler: Authentication failed for user id 6278
+2024-06-01T00:54:50Z [INFO] cron: Database query returned 3455 rows in 296 ms
+2024-06-01T00:55:37Z [ERROR] auth: Connection timeout to database replica 1901
+2024-06-01T00:56:24Z [INFO] cache: Connection timeout to database replica 7804
+2024-06-01T00:57:11Z [DEBUG] db: Authentication failed for user id 6391
+2024-06-01T00:57:58Z [INFO] scheduler: Authentication failed for user id 195
+2024-06-01T00:58:45Z [INFO] api: Memory usage at 673%
+2024-06-01T00:59:32Z [WARN] scheduler: Authentication failed for user id 4467
+2024-06-01T01:00:19Z [INFO] auth: Connection timeout to database replica 9572
+2024-06-01T01:01:06Z [WARN] cron: Rate limit approaching for IP 9646
+2024-06-01T01:01:53Z [INFO] cron: Database query returned 5133 rows in 281 ms
+2024-06-01T01:02:40Z [WARN] scheduler: Cache miss for key user_session_196
+2024-06-01T01:03:27Z [INFO] cron: New WebSocket connection from 5760
+2024-06-01T01:04:14Z [INFO] db: User logged in successfully
+2024-06-01T01:05:01Z [INFO] queue: Rate limit approaching for IP 9821
+2024-06-01T01:05:48Z [WARN] auth: Cache miss for key user_session_9908
+2024-06-01T01:06:35Z [WARN] cron: Queue depth: 3028 messages
+2024-06-01T01:07:22Z [WARN] api: Connection timeout to database replica 7651
+2024-06-01T01:08:09Z [WARN] api: Authentication failed for user id 5299
+2024-06-01T01:08:56Z [WARN] api: User logged in successfully
+2024-06-01T01:09:43Z [DEBUG] api: Connection timeout to database replica 2916
+2024-06-01T01:10:30Z [INFO] db: Queue depth: 6433 messages
+2024-06-01T01:11:17Z [INFO] db: Memory usage at 7066%
+2024-06-01T01:12:04Z [WARN] cache: Connection timeout to database replica 1693
+2024-06-01T01:12:51Z [INFO] cron: Connection timeout to database replica 7306
+2024-06-01T01:13:38Z [INFO] cron: User logged in successfully
+2024-06-01T01:14:25Z [INFO] cron: Scheduled job completed in 6412 seconds
+2024-06-01T01:15:12Z [INFO] scheduler: New WebSocket connection from 7834
+2024-06-01T01:15:59Z [ERROR] scheduler: Cache miss for key user_session_8850
+2024-06-01T01:16:46Z [INFO] cron: New WebSocket connection from 1986
+2024-06-01T01:17:33Z [DEBUG] api: Scheduled job completed in 4962 seconds
+2024-06-01T01:18:20Z [WARN] cron: Cache miss for key user_session_5986
+2024-06-01T01:19:07Z [INFO] cache: Connection timeout to database replica 3328
+2024-06-01T01:19:54Z [INFO] cache: Rate limit approaching for IP 4897
+2024-06-01T01:20:41Z [ERROR] cron: Scheduled job completed in 7971 seconds
+2024-06-01T01:21:28Z [INFO] db: Database query returned 585 rows in 99 ms
+2024-06-01T01:22:15Z [WARN] queue: Rate limit approaching for IP 8016
+2024-06-01T01:23:02Z [WARN] cron: Connection timeout to database replica 8187
+2024-06-01T01:23:49Z [DEBUG] auth: User logged in successfully
+2024-06-01T01:24:36Z [WARN] auth: Authentication failed for user id 1937
+2024-06-01T01:25:23Z [WARN] cache: Memory usage at 2441%
+2024-06-01T01:26:10Z [INFO] auth: User logged in successfully
+2024-06-01T01:26:57Z [INFO] queue: User logged in successfully
+2024-06-01T01:27:44Z [INFO] db: User logged in successfully
+2024-06-01T01:28:31Z [INFO] db: Queue depth: 1048 messages
+2024-06-01T01:29:18Z [INFO] queue: Queue depth: 3614 messages
+2024-06-01T01:30:05Z [INFO] scheduler: Authentication failed for user id 5313
+2024-06-01T01:30:52Z [INFO] db: Scheduled job completed in 3494 seconds
+2024-06-01T01:31:39Z [INFO] api: Cache miss for key user_session_1979
+2024-06-01T01:32:26Z [WARN] db: Scheduled job completed in 9068 seconds
+2024-06-01T01:33:13Z [INFO] queue: User logged in successfully
+2024-06-01T01:34:00Z [WARN] scheduler: Database query returned 257 rows in 451 ms
+2024-06-01T01:34:47Z [INFO] auth: Database query returned 1461 rows in 362 ms
+2024-06-01T01:35:34Z [INFO] api: Authentication failed for user id 7799
+2024-06-01T01:36:21Z [INFO] cron: Connection timeout to database replica 8571
+2024-06-01T01:37:08Z [INFO] db: Queue depth: 617 messages
+2024-06-01T01:37:55Z [WARN] queue: Cache miss for key user_session_4935
+2024-06-01T01:38:42Z [INFO] db: Rate limit approaching for IP 1926
+2024-06-01T01:39:29Z [WARN] scheduler: Memory usage at 8316%
+2024-06-01T01:40:16Z [WARN] cron: Rate limit approaching for IP 4529
+2024-06-01T01:41:03Z [INFO] db: New WebSocket connection from 8152
+2024-06-01T01:41:50Z [WARN] auth: User logged in successfully
+2024-06-01T01:42:37Z [INFO] api: Queue depth: 7425 messages
+2024-06-01T01:43:24Z [WARN] queue: Database query returned 2590 rows in 403 ms
+2024-06-01T01:44:11Z [INFO] auth: Cache miss for key user_session_3856
+2024-06-01T01:44:58Z [INFO] api: Authentication failed for user id 3257
+2024-06-01T01:45:45Z [ERROR] db: Cache miss for key user_session_5344
+2024-06-01T01:46:32Z [INFO] cache: Rate limit approaching for IP 6153
+2024-06-01T01:47:19Z [INFO] queue: New WebSocket connection from 891
+2024-06-01T01:48:06Z [INFO] queue: New WebSocket connection from 2918
+2024-06-01T01:48:53Z [INFO] cron: Rate limit approaching for IP 5876
+2024-06-01T01:49:40Z [INFO] db: User logged in successfully
+2024-06-01T01:50:27Z [INFO] scheduler: New WebSocket connection from 7514
+2024-06-01T01:51:14Z [WARN] db: Connection timeout to database replica 9890
+2024-06-01T01:52:01Z [DEBUG] db: Queue depth: 9057 messages
+2024-06-01T01:52:48Z [INFO] scheduler: Memory usage at 8016%
+2024-06-01T01:53:35Z [INFO] scheduler: New WebSocket connection from 4574
+2024-06-01T01:54:22Z [INFO] scheduler: Rate limit approaching for IP 4061
+2024-06-01T01:55:09Z [INFO] queue: Database query returned 9400 rows in 460 ms
+2024-06-01T01:55:56Z [INFO] auth: User logged in successfully
+2024-06-01T01:56:43Z [INFO] cache: Memory usage at 6461%
+2024-06-01T01:57:30Z [ERROR] cache: New WebSocket connection from 3941
+2024-06-01T01:58:17Z [WARN] cron: Authentication failed for user id 3572
+2024-06-01T01:59:04Z [INFO] cron: Cache miss for key user_session_261
+2024-06-01T01:59:51Z [INFO] cron: New WebSocket connection from 9346
+2024-06-01T02:00:38Z [INFO] cache: New WebSocket connection from 2272
+2024-06-01T02:01:25Z [INFO] scheduler: Scheduled job completed in 7608 seconds
+2024-06-01T02:02:12Z [INFO] cron: Cache miss for key user_session_6306
+2024-06-01T02:02:59Z [INFO] auth: Connection timeout to database replica 6978
+2024-06-01T02:03:46Z [WARN] queue: Memory usage at 9425%
+2024-06-01T02:04:33Z [WARN] auth: Queue depth: 5501 messages
+2024-06-01T02:05:20Z [INFO] cron: Scheduled job completed in 845 seconds
+2024-06-01T02:06:07Z [INFO] queue: User logged in successfully
+2024-06-01T02:06:54Z [WARN] cron: Cache miss for key user_session_9188
+2024-06-01T02:07:41Z [INFO] api: Rate limit approaching for IP 8842
+2024-06-01T02:08:28Z [INFO] scheduler: Queue depth: 3438 messages
+2024-06-01T02:09:15Z [WARN] api: Scheduled job completed in 4381 seconds
+2024-06-01T02:10:02Z [INFO] auth: Cache miss for key user_session_6109
+2024-06-01T02:10:49Z [INFO] queue: Cache miss for key user_session_7704
+2024-06-01T02:11:36Z [WARN] queue: Connection timeout to database replica 7406
+2024-06-01T02:12:23Z [WARN] cron: Cache miss for key user_session_3086
+2024-06-01T02:13:10Z [INFO] cache: Database query returned 4725 rows in 491 ms
+2024-06-01T02:13:57Z [INFO] api: Cache miss for key user_session_2425
+2024-06-01T02:14:44Z [ERROR] queue: User logged in successfully
+2024-06-01T02:15:31Z [INFO] db: New WebSocket connection from 5681
+2024-06-01T02:16:18Z [WARN] auth: Connection timeout to database replica 3098
+2024-06-01T02:17:05Z [ERROR] db: Memory usage at 5504%
+2024-06-01T02:17:52Z [INFO] cron: Scheduled job completed in 7966 seconds
+2024-06-01T02:18:39Z [WARN] scheduler: Memory usage at 7296%
+2024-06-01T02:19:26Z [INFO] scheduler: Connection timeout to database replica 2814
+2024-06-01T02:20:13Z [INFO] api: Connection timeout to database replica 776
+2024-06-01T02:21:00Z [INFO] db: Queue depth: 2635 messages
+2024-06-01T02:21:47Z [INFO] db: Database query returned 2642 rows in 122 ms
+2024-06-01T02:22:34Z [INFO] api: Queue depth: 2073 messages
+2024-06-01T02:23:21Z [INFO] db: Memory usage at 569%
+2024-06-01T02:24:08Z [DEBUG] db: Scheduled job completed in 7348 seconds
+2024-06-01T02:24:55Z [INFO] auth: User logged in successfully
+2024-06-01T02:25:42Z [WARN] cache: Scheduled job completed in 2557 seconds
+2024-06-01T02:26:29Z [INFO] queue: Scheduled job completed in 4843 seconds
+2024-06-01T02:27:16Z [DEBUG] scheduler: Queue depth: 2410 messages
+2024-06-01T02:28:03Z [WARN] cache: Scheduled job completed in 1841 seconds
+2024-06-01T02:28:50Z [DEBUG] db: Memory usage at 1915%
+2024-06-01T02:29:37Z [INFO] scheduler: Rate limit approaching for IP 7307
+2024-06-01T02:30:24Z [INFO] queue: Rate limit approaching for IP 9559
+2024-06-01T02:31:11Z [WARN] scheduler: Connection timeout to database replica 3207
+2024-06-01T02:31:58Z [INFO] cache: Cache miss for key user_session_8386
+2024-06-01T02:32:45Z [INFO] queue: Queue depth: 8382 messages
+2024-06-01T02:33:32Z [DEBUG] api: Authentication failed for user id 2424
+2024-06-01T02:34:19Z [INFO] api: User logged in successfully
+2024-06-01T02:35:06Z [INFO] cache: Memory usage at 1436%
+2024-06-01T02:35:53Z [ERROR] cron: Authentication failed for user id 7250

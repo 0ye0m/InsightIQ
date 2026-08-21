@@ -1,0 +1,43 @@
+CHANGELOG
+=========
+
+v2.0.0 (2024-06-20)
+-------------------
+BREAKING: Removed legacy `/v1/analyze` endpoint. Use `/v2/analyze` instead.
+FEATURE: Added RAG-based chat interface with source citations.
+FEATURE: PDF and Word document upload with deep analysis (entities, topics, sentiment, readability).
+FEATURE: Dataset comparison mode — diff any two analyses for schema drift, KPI deltas, and quality changes.
+FEATURE: Analysis history with trend charts for per-file quality and metrics over time.
+FEATURE: Per-chart PNG export and full dashboard screenshot export.
+IMPROVEMENT: Statistics engine now computes Pearson correlation matrix and IQR-based outlier detection.
+IMPROVEMENT: Data cleaning handles currency symbols ($, €, £, ₹, ¥), percentages, and accounting-style negatives (parentheses).
+IMPROVEMENT: Type inference expanded to detect identifiers, dates in 6 formats, and booleans in 10+ variants.
+SECURITY: All API keys moved to .env; provider names removed from user-facing UI.
+PERFORMANCE: Initial load reduced from 4.2s to 1.8s via code splitting.
+
+v1.5.2 (2024-05-15)
+-------------------
+FIX: Excel export failed when dataset contained Unicode characters in headers.
+FIX: Quality score calculation overflowed on datasets > 100k rows.
+FIX: Dark mode toggle persisted incorrectly across sessions.
+IMPROVEMENT: Chart rendering performance on large datasets.
+IMPROVEMENT: Better error messages for unsupported file types.
+
+v1.5.0 (2024-04-01)
+-------------------
+FEATURE: Multi-format export (Excel, CSV, JSON, PDF).
+FEATURE: KPI cards with animated counters.
+FEATURE: Quality score ring with 5-dimensional breakdown.
+FEATURE: Dark and light theme support.
+
+v1.0.0 (2024-02-10)
+-------------------
+Initial release. CSV upload, deterministic statistics, charts, and basic chat.
+
+OPEN ISSUES
+- #421: Large PDF files (>50MB) cause browser to hang during text extraction.
+- #435: Comparison engine doesn't detect column rename — only add/remove.
+- #442: History entries stored in localStorage exceed 5MB quota after 20 runs.
+- #451: Some non-Latin characters render as tofu in PDF export.
+
+For full issue tracker, visit https://github.com/insightiq/issues or email support@insightiq.app.

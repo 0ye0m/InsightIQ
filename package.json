@@ -1,0 +1,30 @@
+{
+  "name": "insightiq",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "InsightIQ — A RAG-based intelligent data analytics platform. Upload raw datasets and get deterministic cleaning, statistical analysis, interactive visualizations, and grounded conversational insights.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "html-to-image": "^1.11.13",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "lucide-react": "^0.469.0",
+    "mammoth": "^1.12.1",
+    "papaparse": "^5.5.2",
+    "pdfjs-dist": "^6.2.108",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.0.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0"
+  }
+}

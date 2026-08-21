@@ -1,0 +1,542 @@
+[
+  {
+    "user_id": 1,
+    "name": "Aarav Garcia",
+    "contact": {
+      "email": "user1@example.com",
+      "phone": "+1-555-745-8074",
+      "address": {
+        "street": "6811 Main St",
+        "city": "Chicago",
+        "zip": "85846"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O1-1",
+        "total": 306.0
+      },
+      {
+        "order_id": "O1-2",
+        "total": 286.07
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 2,
+    "name": "Yuki Patel",
+    "contact": {
+      "email": "user2@example.com",
+      "phone": "+1-555-599-7548",
+      "address": {
+        "street": "7965 Main St",
+        "city": "Boston",
+        "zip": "87468"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O2-1",
+        "total": 367.81
+      },
+      {
+        "order_id": "O2-2",
+        "total": 468.93
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 3,
+    "name": "Lena Rossi",
+    "contact": {
+      "email": "user3@example.com",
+      "phone": "+1-555-831-1994",
+      "address": {
+        "street": "8656 Main St",
+        "city": "NYC",
+        "zip": "65312"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O3-1",
+        "total": 296.67
+      },
+      {
+        "order_id": "O3-2",
+        "total": 285.56
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 4,
+    "name": "Kai Lopez",
+    "contact": {
+      "email": "user4@example.com",
+      "phone": "+1-555-584-2915",
+      "address": {
+        "street": "8107 Main St",
+        "city": "Boston",
+        "zip": "94696"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O4-1",
+        "total": 186.45
+      },
+      {
+        "order_id": "O4-2",
+        "total": 354.81
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 5,
+    "name": "Aarav Johnson",
+    "contact": {
+      "email": "user5@example.com",
+      "phone": "+1-555-394-4149",
+      "address": {
+        "street": "7689 Main St",
+        "city": "SF",
+        "zip": "67424"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O5-1",
+        "total": 131.41
+      },
+      {
+        "order_id": "O5-2",
+        "total": 125.46
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 6,
+    "name": "Diego Andersen",
+    "contact": {
+      "email": "user6@example.com",
+      "phone": "+1-555-973-8675",
+      "address": {
+        "street": "2149 Main St",
+        "city": "SF",
+        "zip": "61166"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O6-1",
+        "total": 480.71
+      },
+      {
+        "order_id": "O6-2",
+        "total": 419.88
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 7,
+    "name": "Priya Schmidt",
+    "contact": {
+      "email": "user7@example.com",
+      "phone": "+1-555-918-3654",
+      "address": {
+        "street": "3395 Main St",
+        "city": "SF",
+        "zip": "21297"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O7-1",
+        "total": 340.19
+      },
+      {
+        "order_id": "O7-2",
+        "total": 81.97
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 8,
+    "name": "Arjun Johnson",
+    "contact": {
+      "email": "user8@example.com",
+      "phone": "+1-555-720-9063",
+      "address": {
+        "street": "1654 Main St",
+        "city": "Chicago",
+        "zip": "74713"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O8-1",
+        "total": 165.75
+      },
+      {
+        "order_id": "O8-2",
+        "total": 120.53
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 9,
+    "name": "Maya Sharma",
+    "contact": {
+      "email": "user9@example.com",
+      "phone": "+1-555-467-5273",
+      "address": {
+        "street": "5850 Main St",
+        "city": "LA",
+        "zip": "32900"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O9-1",
+        "total": 417.42
+      },
+      {
+        "order_id": "O9-2",
+        "total": 449.34
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 10,
+    "name": "Maya Smith",
+    "contact": {
+      "email": "user10@example.com",
+      "phone": "+1-555-445-8055",
+      "address": {
+        "street": "1868 Main St",
+        "city": "Boston",
+        "zip": "39712"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O10-1",
+        "total": 77.93
+      },
+      {
+        "order_id": "O10-2",
+        "total": 127.57
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 11,
+    "name": "Kai Khan",
+    "contact": {
+      "email": "user11@example.com",
+      "phone": "+1-555-903-6820",
+      "address": {
+        "street": "765 Main St",
+        "city": "Boston",
+        "zip": "45060"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O11-1",
+        "total": 450.23
+      },
+      {
+        "order_id": "O11-2",
+        "total": 429.64
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 12,
+    "name": "Mateo Andersen",
+    "contact": {
+      "email": "user12@example.com",
+      "phone": "+1-555-785-2706",
+      "address": {
+        "street": "827 Main St",
+        "city": "Chicago",
+        "zip": "69917"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O12-1",
+        "total": 482.07
+      },
+      {
+        "order_id": "O12-2",
+        "total": 382.77
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 13,
+    "name": "Sofia Andersen",
+    "contact": {
+      "email": "user13@example.com",
+      "phone": "+1-555-724-2669",
+      "address": {
+        "street": "9216 Main St",
+        "city": "NYC",
+        "zip": "76493"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O13-1",
+        "total": 70.6
+      },
+      {
+        "order_id": "O13-2",
+        "total": 322.36
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 14,
+    "name": "Arjun Singh",
+    "contact": {
+      "email": "user14@example.com",
+      "phone": "+1-555-260-5786",
+      "address": {
+        "street": "7234 Main St",
+        "city": "Boston",
+        "zip": "75325"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O14-1",
+        "total": 371.62
+      },
+      {
+        "order_id": "O14-2",
+        "total": 67.66
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 15,
+    "name": "Priya Khan",
+    "contact": {
+      "email": "user15@example.com",
+      "phone": "+1-555-938-3257",
+      "address": {
+        "street": "2015 Main St",
+        "city": "LA",
+        "zip": "67554"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O15-1",
+        "total": 485.43
+      },
+      {
+        "order_id": "O15-2",
+        "total": 389.23
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 16,
+    "name": "Aarav Rossi",
+    "contact": {
+      "email": "user16@example.com",
+      "phone": "+1-555-954-8760",
+      "address": {
+        "street": "5593 Main St",
+        "city": "SF",
+        "zip": "76194"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O16-1",
+        "total": 102.21
+      },
+      {
+        "order_id": "O16-2",
+        "total": 147.69
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 17,
+    "name": "Nina Singh",
+    "contact": {
+      "email": "user17@example.com",
+      "phone": "+1-555-744-5021",
+      "address": {
+        "street": "2484 Main St",
+        "city": "Boston",
+        "zip": "65275"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O17-1",
+        "total": 397.86
+      },
+      {
+        "order_id": "O17-2",
+        "total": 86.24
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 18,
+    "name": "Nina Lopez",
+    "contact": {
+      "email": "user18@example.com",
+      "phone": "+1-555-519-8516",
+      "address": {
+        "street": "8457 Main St",
+        "city": "SF",
+        "zip": "13901"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O18-1",
+        "total": 232.44
+      },
+      {
+        "order_id": "O18-2",
+        "total": 389.67
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 19,
+    "name": "Mateo Smith",
+    "contact": {
+      "email": "user19@example.com",
+      "phone": "+1-555-186-6542",
+      "address": {
+        "street": "5158 Main St",
+        "city": "Chicago",
+        "zip": "31538"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O19-1",
+        "total": 228.35
+      },
+      {
+        "order_id": "O19-2",
+        "total": 208.77
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  },
+  {
+    "user_id": 20,
+    "name": "Maya Kim",
+    "contact": {
+      "email": "user20@example.com",
+      "phone": "+1-555-688-1947",
+      "address": {
+        "street": "8517 Main St",
+        "city": "SF",
+        "zip": "64959"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O20-1",
+        "total": 212.96
+      },
+      {
+        "order_id": "O20-2",
+        "total": 346.82
+      }
+    ],
+    "metadata": {
+      "signup": "2024-01-15",
+      "source": "organic"
+    }
+  }
+]

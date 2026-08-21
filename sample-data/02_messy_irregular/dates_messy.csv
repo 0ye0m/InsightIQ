@@ -1,0 +1,11 @@
+event_id,title,start_date,end_date,duration_days
+E001,Conference,2024-03-15,2024-03-18,3
+E002,Workshop,03/22/2024,03/24/2024,2
+E003,Webinar,15-04-2024,15-04-2024,1
+E004,Retreat,Jan 20, 2024,Jan 25, 2024,5
+E005,Launch,2024/05/10,2024/05/10,1
+E006,Summit,"March 1, 2024","March 3, 2024",3
+E007,Meeting,2024-06-15,,1
+E008,Training,2024.07.20,2024.07.22,2
+E009,Hackathon,2024-08-01T09:00,2024-08-01T21:00,1
+E010,Seminar,09/15/24,09/15/24,1

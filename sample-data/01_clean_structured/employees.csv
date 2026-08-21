@@ -1,0 +1,81 @@
+employee_id,first_name,last_name,email,department,level,salary,hire_date,years_experience,is_manager,city
+EMP0001,Eva,Rossi,eva.rossi@company.com,Finance,L2,105866,2020-07-31,15,no,Tokyo
+EMP0002,Kai,Sharma,kai.sharma@company.com,HR,L3,222631,2024-01-09,18,yes,Tokyo
+EMP0003,Priya,Kumar,priya.kumar@company.com,Operations,L4,225961,2018-05-10,9,no,Bangalore
+EMP0004,Arjun,Brown,arjun.brown@company.com,HR,L1,107182,2024-07-27,13,no,Berlin
+EMP0005,Yuki,Nguyen,yuki.nguyen@company.com,Operations,L4,116953,2015-03-31,1,no,New York
+EMP0006,Eva,Schmidt,eva.schmidt@company.com,Marketing,VP,105324,2024-05-04,20,no,London
+EMP0007,Arjun,Andersen,arjun.andersen@company.com,Operations,VP,233987,2017-10-23,25,no,London
+EMP0008,Sofia,Patel,sofia.patel@company.com,HR,L1,196931,2018-06-19,12,no,New York
+EMP0009,Yuki,Khan,yuki.khan@company.com,HR,L2,97637,2023-05-20,5,no,Bangalore
+EMP0010,Mateo,Tanaka,mateo.tanaka@company.com,Sales,L3,171313,2018-01-21,10,no,Bangalore
+EMP0011,Sofia,Wang,sofia.wang@company.com,Sales,VP,104143,2015-11-05,22,no,Tokyo
+EMP0012,Aria,Singh,aria.singh@company.com,HR,L1,114326,2016-01-05,18,yes,Bangalore
+EMP0013,Kai,Kumar,kai.kumar@company.com,Operations,L3,73402,2019-04-10,22,no,New York
+EMP0014,Eva,Silva,eva.silva@company.com,Finance,L2,214778,2018-09-05,3,no,Tokyo
+EMP0015,Yuki,Lopez,yuki.lopez@company.com,Sales,L1,54754,2016-04-22,10,no,New York
+EMP0016,Sofia,Rossi,sofia.rossi@company.com,Finance,L2,146881,2024-12-13,15,no,Berlin
+EMP0017,Nina,Kumar,nina.kumar@company.com,Operations,L2,153759,2023-04-29,21,yes,Tokyo
+EMP0018,Eva,Lopez,eva.lopez@company.com,Engineering,Director,142132,2018-02-19,7,no,London
+EMP0019,Priya,Garcia,priya.garcia@company.com,Marketing,L5,214037,2022-09-09,12,yes,Bangalore
+EMP0020,Arjun,Garcia,arjun.garcia@company.com,HR,L1,218740,2024-07-05,7,no,Berlin
+EMP0021,Aarav,Patel,aarav.patel@company.com,Marketing,L2,78010,2023-10-28,19,no,Berlin
+EMP0022,Arjun,Kumar,arjun.kumar@company.com,Sales,L3,247996,2017-06-03,5,no,Berlin
+EMP0023,Aarav,Chen,aarav.chen@company.com,Sales,L2,186614,2024-08-17,9,no,New York
+EMP0024,Aarav,Kim,aarav.kim@company.com,Marketing,VP,107372,2015-03-02,19,no,London
+EMP0025,Kai,Patel,kai.patel@company.com,Operations,L4,182910,2016-06-03,4,no,Tokyo
+EMP0026,Finn,Singh,finn.singh@company.com,Finance,L1,163490,2020-10-03,17,no,Berlin
+EMP0027,Maya,Tanaka,maya.tanaka@company.com,HR,Director,53165,2018-05-20,2,no,Tokyo
+EMP0028,Nina,Garcia,nina.garcia@company.com,Operations,L4,64265,2020-07-01,3,no,London
+EMP0029,Liam,Kim,liam.kim@company.com,Finance,Director,198449,2018-01-31,18,no,Tokyo
+EMP0030,Eva,Tanaka,eva.tanaka@company.com,HR,L5,203709,2018-04-22,14,yes,New York
+EMP0031,Aria,Müller,aria.müller@company.com,HR,L2,153478,2019-10-28,11,no,Tokyo
+EMP0032,Nina,Garcia,nina.garcia@company.com,HR,L3,219354,2018-07-04,9,no,London
+EMP0033,Lena,Smith,lena.smith@company.com,Engineering,L1,158213,2016-01-09,4,no,Bangalore
+EMP0034,Noah,Silva,noah.silva@company.com,Finance,L5,192241,2015-09-03,11,no,Tokyo
+EMP0035,Priya,Lopez,priya.lopez@company.com,Operations,L1,120400,2024-09-25,20,no,New York
+EMP0036,Ravi,Tanaka,ravi.tanaka@company.com,Sales,Director,171403,2017-05-21,8,no,Bangalore
+EMP0037,Aria,Singh,aria.singh@company.com,Marketing,L5,104286,2016-04-15,14,no,Berlin
+EMP0038,Eva,Silva,eva.silva@company.com,Finance,Director,226789,2015-04-18,9,yes,Bangalore
+EMP0039,Yuki,Khan,yuki.khan@company.com,Engineering,L2,82552,2018-12-08,19,no,New York
+EMP0040,Noah,Sharma,noah.sharma@company.com,Operations,L5,101395,2016-01-11,13,no,Bangalore
+EMP0041,Emma,Singh,emma.singh@company.com,Operations,L3,248642,2018-06-30,19,no,New York
+EMP0042,Noah,Johnson,noah.johnson@company.com,Finance,L1,221676,2023-06-18,3,no,Tokyo
+EMP0043,Lena,Andersen,lena.andersen@company.com,HR,L3,101510,2019-12-16,25,no,Bangalore
+EMP0044,Nina,Garcia,nina.garcia@company.com,Operations,Director,200486,2018-03-06,16,no,Bangalore
+EMP0045,Maya,Rossi,maya.rossi@company.com,Finance,L1,47015,2019-06-07,7,no,London
+EMP0046,Noah,Chen,noah.chen@company.com,Marketing,L1,47026,2018-03-31,16,no,London
+EMP0047,Noah,Brown,noah.brown@company.com,Operations,L2,176140,2020-12-21,18,no,Bangalore
+EMP0048,Liam,Brown,liam.brown@company.com,Operations,L1,159352,2024-08-30,1,no,New York
+EMP0049,Diego,Kumar,diego.kumar@company.com,Finance,L4,230990,2019-10-25,21,no,New York
+EMP0050,Omar,Sharma,omar.sharma@company.com,Sales,VP,207037,2018-08-23,15,no,Bangalore
+EMP0051,Liam,Lopez,liam.lopez@company.com,Engineering,L2,159209,2024-06-21,19,no,New York
+EMP0052,Omar,Nguyen,omar.nguyen@company.com,Marketing,L2,132311,2023-05-13,25,yes,Berlin
+EMP0053,Sofia,Tanaka,sofia.tanaka@company.com,Sales,VP,136586,2020-09-19,12,no,London
+EMP0054,Zara,Garcia,zara.garcia@company.com,Marketing,L2,90481,2016-08-22,20,yes,New York
+EMP0055,Emma,Schmidt,emma.schmidt@company.com,Finance,VP,196904,2020-03-15,15,no,Berlin
+EMP0056,Eva,Khan,eva.khan@company.com,Operations,L3,84572,2024-09-09,15,yes,Tokyo
+EMP0057,Yuki,Chen,yuki.chen@company.com,Engineering,L3,177995,2021-08-19,3,no,Tokyo
+EMP0058,Maya,Patel,maya.patel@company.com,Marketing,L1,213995,2019-02-19,3,no,Berlin
+EMP0059,Omar,Wang,omar.wang@company.com,Finance,VP,238703,2021-07-05,2,no,Berlin
+EMP0060,Arjun,Khan,arjun.khan@company.com,HR,L5,84547,2021-10-14,2,no,Bangalore
+EMP0061,Liam,Tanaka,liam.tanaka@company.com,Sales,L1,109944,2022-03-31,23,no,Tokyo
+EMP0062,Mateo,Tanaka,mateo.tanaka@company.com,Sales,L3,142740,2021-11-02,10,no,Bangalore
+EMP0063,Eva,Patel,eva.patel@company.com,Operations,Director,132726,2023-11-07,3,no,Berlin
+EMP0064,Omar,Nguyen,omar.nguyen@company.com,Operations,VP,217114,2017-10-29,20,no,Bangalore
+EMP0065,Liam,Kumar,liam.kumar@company.com,Sales,L3,126325,2022-06-11,21,no,Tokyo
+EMP0066,Noah,Andersen,noah.andersen@company.com,Engineering,L3,191518,2022-12-13,13,no,Bangalore
+EMP0067,Noah,Tanaka,noah.tanaka@company.com,Operations,Director,155993,2016-01-18,17,no,Bangalore
+EMP0068,Yuki,Johnson,yuki.johnson@company.com,Marketing,VP,172473,2017-05-27,7,no,London
+EMP0069,Noah,Smith,noah.smith@company.com,Engineering,L5,247080,2018-04-26,18,no,Berlin
+EMP0070,Maya,Khan,maya.khan@company.com,Finance,L2,201564,2024-10-29,13,yes,London
+EMP0071,Eva,Johnson,eva.johnson@company.com,HR,L1,152704,2023-02-01,12,no,London
+EMP0072,Finn,Andersen,finn.andersen@company.com,Operations,VP,162683,2018-03-13,8,no,Bangalore
+EMP0073,Lena,Müller,lena.müller@company.com,Operations,L5,160499,2019-02-15,15,no,Tokyo
+EMP0074,Mateo,Tanaka,mateo.tanaka@company.com,Sales,VP,97349,2019-09-11,20,yes,Bangalore
+EMP0075,Maya,Schmidt,maya.schmidt@company.com,Marketing,L5,71893,2024-10-20,23,no,New York
+EMP0076,Yuki,Smith,yuki.smith@company.com,Sales,L3,162786,2023-07-23,17,yes,Tokyo
+EMP0077,Liam,Rossi,liam.rossi@company.com,HR,L3,51991,2024-02-28,14,yes,Berlin
+EMP0078,Priya,Rossi,priya.rossi@company.com,Engineering,L3,103861,2019-05-01,1,no,New York
+EMP0079,Diego,Kim,diego.kim@company.com,Engineering,L3,168851,2016-07-17,23,no,Tokyo
+EMP0080,Finn,Andersen,finn.andersen@company.com,Engineering,L1,112088,2015-01-22,7,no,Berlin

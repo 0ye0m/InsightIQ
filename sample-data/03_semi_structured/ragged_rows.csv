@@ -1,0 +1,6 @@
+id,name,age,city,country
+1,John,30,New York,USA
+2,Jane,25,London,UK
+3,Bob,40,Paris,France,extra_column_value
+4,Alice,35,Tokyo,Japan,extra1,extra2
+5,Charlie,28,Berlin,Germany

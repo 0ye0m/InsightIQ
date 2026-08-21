@@ -1,0 +1,9 @@
+id|name|category|price|stock
+1|Widget A|Electronics|29.99|150
+2|Widget B|Electronics|49.99|80
+3|Gadget C|Tools|89.50|25
+4|Gizmo D|Tools|12.99|200
+5|Book X|Books|14.99|500
+6|Book Y|Books|24.99|300
+7|Pen Set|Office|9.99|1000
+8|Notebook|Office|4.99|750

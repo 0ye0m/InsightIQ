@@ -1,0 +1,9 @@
+timestamp,level,source,message,user_id,duration_ms,extra
+2024-06-01T10:00:00Z,INFO,auth,User logged in,user_123,45,
+2024-06-01T10:01:23Z,DEBUG,db,Cached query hit,,2,cache_key=abc123
+2024-06-01T10:02:15Z,WARN,api,Rate limit approaching,user_456,,endpoint=/search
+2024-06-01T10:03:00Z,ERROR,db,Connection timeout,,5000,retry_count=3
+2024-06-01T10:03:45Z,INFO,auth,User logged out,user_123,12,
+2024-06-01T10:04:10Z,ERROR,payment,Charge failed,user_789,,error_code=card_declined amount=99.99
+2024-06-01T10:05:00Z,INFO,cron,Backup completed,,15000,files=1250 size=2.5GB
+2024-06-01T10:06:20Z,WARN,api,Slow response,user_321,2500,endpoint=/reports

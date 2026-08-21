@@ -1,0 +1,61 @@
+student_id,student_name,grade_level,subject,midterm_score,final_score,attendance_pct,gpa,passed
+STU001,Priya Müller,11th,Chemistry,83,81,75.6,2.61,yes
+STU002,Priya Andersen,12th,English,54,68,76.1,3.64,yes
+STU003,Arjun Singh,10th,Computer Science,91,94,77.1,3.48,yes
+STU004,Zara Andersen,10th,Computer Science,98,92,82.2,2.69,yes
+STU005,Sofia Nguyen,12th,Biology,46,61,80.2,3.08,yes
+STU006,Arjun Silva,11th,English,75,79,93.2,2.28,yes
+STU007,Aarav Brown,9th,Chemistry,55,43,82.1,3.58,no
+STU008,Eva Chen,9th,Biology,86,40,76.7,3.32,no
+STU009,Priya Garcia,9th,Chemistry,86,64,80.8,2.76,yes
+STU010,Sofia Khan,12th,Computer Science,83,74,77.2,2.4,yes
+STU011,Finn Silva,9th,Math,60,99,88.2,2.67,yes
+STU012,Omar Johnson,9th,Chemistry,88,62,83.9,2.6,yes
+STU013,Mateo Chen,9th,History,61,96,84.7,4.0,yes
+STU014,Aarav Silva,11th,Physics,54,61,97.4,3.31,yes
+STU015,Liam Brown,10th,Biology,60,76,78.8,3.94,yes
+STU016,Eva Khan,12th,English,53,53,91.3,3.16,yes
+STU017,Arjun Kim,11th,History,90,97,88.1,2.27,yes
+STU018,Noah Kumar,10th,Chemistry,49,75,88.3,3.44,yes
+STU019,Emma Khan,10th,History,46,88,83.0,3.95,yes
+STU020,Nina Nguyen,12th,History,97,97,90.9,3.48,yes
+STU021,Noah Müller,9th,Physics,56,41,94.1,3.22,no
+STU022,Kai Andersen,10th,English,59,54,92.2,2.72,yes
+STU023,Lena Kim,12th,History,86,63,79.6,2.77,yes
+STU024,Lena Kim,10th,Physics,59,42,85.2,3.94,no
+STU025,Kai Lopez,10th,History,87,52,93.9,2.13,yes
+STU026,Finn Andersen,12th,History,65,95,86.4,2.49,yes
+STU027,Omar Patel,12th,History,65,65,90.3,3.48,yes
+STU028,Eva Silva,9th,English,51,68,86.4,3.76,yes
+STU029,Zara Tanaka,12th,History,47,75,84.7,3.53,yes
+STU030,Maya Müller,11th,Biology,70,96,82.6,3.66,yes
+STU031,Finn Johnson,12th,Chemistry,84,98,76.4,3.03,yes
+STU032,Noah Wang,12th,Math,91,72,77.8,3.56,yes
+STU033,Aria Kim,12th,Biology,65,68,75.6,2.91,yes
+STU034,Arjun Wang,9th,Chemistry,65,84,91.2,3.42,yes
+STU035,Emma Garcia,9th,Math,90,68,90.9,2.17,yes
+STU036,Omar Tanaka,10th,Biology,80,64,76.1,2.34,yes
+STU037,Diego Kumar,10th,Physics,54,51,94.2,2.1,yes
+STU038,Yuki Nguyen,12th,Chemistry,85,51,77.9,2.26,yes
+STU039,Arjun Sharma,11th,Math,74,71,96.4,3.09,yes
+STU040,Aarav Andersen,12th,Physics,58,77,91.5,2.91,yes
+STU041,Finn Smith,9th,Physics,80,57,90.5,3.12,yes
+STU042,Arjun Patel,10th,Physics,48,81,83.7,2.29,yes
+STU043,Maya Kumar,11th,Chemistry,50,43,77.7,3.99,no
+STU044,Emma Nguyen,10th,Biology,92,77,84.0,2.07,yes
+STU045,Yuki Khan,11th,Biology,97,44,94.0,3.69,no
+STU046,Liam Nguyen,12th,Physics,52,84,96.5,2.66,yes
+STU047,Nina Tanaka,10th,History,58,79,76.5,3.14,yes
+STU048,Mateo Smith,12th,History,89,78,98.3,3.97,yes
+STU049,Yuki Lopez,11th,Chemistry,78,76,99.9,2.71,yes
+STU050,Noah Andersen,12th,English,91,80,87.4,3.62,yes
+STU051,Eva Rossi,11th,Physics,45,47,75.6,3.25,no
+STU052,Sofia Müller,12th,Biology,47,61,83.7,3.61,yes
+STU053,Arjun Sharma,10th,History,63,56,94.8,2.62,yes
+STU054,Mateo Silva,11th,Computer Science,45,47,92.1,2.68,no
+STU055,Ravi Andersen,9th,Computer Science,56,52,83.3,2.68,yes
+STU056,Lena Schmidt,9th,History,53,70,78.9,2.92,yes
+STU057,Aria Khan,12th,Computer Science,97,66,98.2,2.11,yes
+STU058,Mateo Nguyen,11th,English,79,41,80.2,3.37,no
+STU059,Priya Smith,10th,Chemistry,98,41,83.5,2.75,no
+STU060,Aria Johnson,12th,Physics,83,47,96.6,3.5,no

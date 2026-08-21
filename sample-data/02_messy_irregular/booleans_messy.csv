@@ -1,0 +1,11 @@
+item_id,name,is_active,is_featured,in_stock,on_sale,verified
+I001,Widget A,yes,true,1,TRUE,Y
+I002,Widget B,no,false,0,FALSE,N
+I003,Widget C,True,True,True,yes,1
+I004,Widget D,False,False,False,no,0
+I005,Widget E,1,1,1,1,true
+I006,Widget F,0,0,0,0,false
+I007,Widget G,Y,yes,true,T,1
+I008,Widget H,N,no,false,F,0
+I009,Widget I,yes,Y,1,TRUE,True
+I010,Widget J,maybe,1,0,no,unknown

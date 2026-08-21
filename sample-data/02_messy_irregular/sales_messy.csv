@@ -1,0 +1,32 @@
+order_id,date,product,price,quantity,region,salesperson
+ORD-001,2024-01-05,Widget A,$1,250.50,10,North,John Smith
+ORD-002,2024-01-12,Widget B,$890.00,8,South,Jane Doe
+ORD-003,01/18/2024,Widget A,$2,400.75,20,East,Bob
+ORD-004,2024-02-02,Widget C,$450.25,4,West,
+ORD-005,2024-02-09,Widget A,$1,850.00,15,North,John Smith
+ORD-006,2024-02-15,Widget D,$3,200.50,28,East,Alice
+ORD-007,2024-03-01,Widget B,,6,South,Jane Doe
+ORD-008,2024-03-08,Widget A,$2,100.00,18,North,John Smith
+ORD-009,2024-03-14,Widget C,$980.25,9,West,Bob
+ORD-010,2024-03-22,Widget D,$4,500.00,35,East,Alice
+ORD-011,2024-04-05,Widget A,$1,100.50,11,North,John Smith
+ORD-011,2024-04-05,Widget A,$1,100.50,11,North,John Smith
+ORD-012,2024-04-12,Widget B,$2,300.00,19,South,Jane Doe
+ORD-013,2024-04-18,Widget C,$1,750.25,14,West,
+ORD-014,2024-04-25,Widget D,$3,900.00,32,East,Alice
+ORD-015,2024-05-02,Widget A,$1,450.00,13,North,John Smith
+ORD-016,2024-05-09,,N/A,9,South,Jane Doe
+ORD-017,2024-05-15,Widget C,$890.00,7,West,Bob
+ORD-018,2024-05-22,Widget D,$5,100.00,40,East,Alice
+ORD-019,2024-06-01,Widget A,$1,650.50,14,North,John Smith
+ORD-020,2024-06-08,Widget B,$1,120.00,10,South,Jane Doe
+ORD-021,2024-06-15,Widget C,$2,890.00,24,West,Bob
+ORD-022,2024-06-22,Widget D,$6,200.00,52,East,Alice
+ORD-023,2024-06-29,Widget A,$980.00,8,North,John Smith
+ORD-024,2024-07-06,Widget B,$1,450.00,12,South,Jane Doe
+ORD-025,2024-07-13,Widget C,$3,200.00,27,West,Bob
+ORD-026,2024-07-20,Widget D,$7,100.00,60,East,Alice
+ORD-027,2024-07-27,Widget A,$1,230.50,10,North,John Smith
+ORD-028,2024-08-03,Widget B,$1,670.00,14,South,Jane Doe
+ORD-029,2024-08-10,Widget C,$4,100.00,34,West,Bob
+ORD-030,2024-08-17,Widget D,$8,200.00,68,East,Alice

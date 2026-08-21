@@ -1,0 +1,21 @@
+customer_id,name,EMAIL,Phone,SignupDate,Country,PostalCode,LoyaltyPoints,Status
+C001,John Smith,john@GMAIL.com,(555) 123-4567,2023-05-12,USA,10001,1500,Active
+C002,jane doe,Jane.Doe@yahoo.com,555-234-5678,2023-06-01,USA,90210,2300,Active
+C003,María García,maria.garcia@correo.es,+34 612 345 678,2023-07-15,Spain,28001,1800,Active
+C004,Hans Müller,hans.mueller@gmx.de,+49 30 12345678,2023-08-20,Germany,10115,950,inactive
+C005,Yuki Tanaka,yuki.tanaka@example.jp,090-1234-5678,2023-09-05,Japan,100-0001,3100,Active
+C006,,null@nowhere.com,N/A,2023-10-10,USA,00000,0,Inactive
+C007,Alex O'Brien,alex.o@example.com,(555) 987-6543,2023-11-22,USA,33101,750,active
+C008,Li Wei,li.wei@163.com,13800138000,2024-01-03,China,100000,4200,Active
+C009,Priya Patel,priya.patel@rediffmail.com,+91 98765 43210,2024-02-14,India,110001,2900,active
+C010,unknown,N/A,000-000-0000,,NULL,-1,0,unknown
+C011,Bob Brown,bob.brown@email.com,555.111.2222,2024-03-01,USA,60601,1500,active
+C012,Anna Andersson,anna@telia.se,+46 8 123 456,2024-04-15,Sweden,11122,1100,Active
+C013,Carlos López,carlos.lopez@terra.es,+34 91 123 45 67,2024-05-20,Spain,08003,2600,active
+C014,Sarah Connor,sarah.connor@skynet.com,555-444-3333,2024-06-08,USA,94101,3300,Active
+C015,Müller Müller,muller@example.com,,2024-07-12,Germany,80331,200,Active
+C016,François Dubois,f.dubois@orange.fr,+33 1 23 45 67 89,2024-08-19,France,75001,1500,active
+C017,Ingrid Berg,ingrid@berg.no,+47 22 12 34 56,2024-09-25,Norway,0150,800,Active
+C018,Raj Kumar,raj.kumar@gmail.com,9876543210,2024-10-30,India,560001,5400,active
+C019,,empty@user.com,,2024-11-05,USA,,0,
+C020,Omar Sharif,omar@egyptmail.com,+20 2 1234 5678,2024-12-15,Egypt,11511,1250,Active

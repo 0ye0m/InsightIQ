@@ -1,0 +1,392 @@
+[
+  {
+    "product_id": "P0001",
+    "name": "Epsilon",
+    "category": "Electronics",
+    "price": 292.34,
+    "stock": 266,
+    "rating": 3.3,
+    "in_stock": false,
+    "tags": [
+      "limited",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0002",
+    "name": "Alpha",
+    "category": "Clothing",
+    "price": 356.58,
+    "stock": 443,
+    "rating": 3.3,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0003",
+    "name": "Delta",
+    "category": "Clothing",
+    "price": 375.17,
+    "stock": 948,
+    "rating": 3.9,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "imported",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0004",
+    "name": "Beta",
+    "category": "Clothing",
+    "price": 369.75,
+    "stock": 503,
+    "rating": 4.5,
+    "in_stock": true,
+    "tags": [
+      "limited",
+      "new",
+      "imported"
+    ]
+  },
+  {
+    "product_id": "P0005",
+    "name": "Beta",
+    "category": "Electronics",
+    "price": 118.78,
+    "stock": 36,
+    "rating": 3.9,
+    "in_stock": true,
+    "tags": [
+      "limited",
+      "imported",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0006",
+    "name": "Delta",
+    "category": "Electronics",
+    "price": 223.55,
+    "stock": 726,
+    "rating": 4.1,
+    "in_stock": false,
+    "tags": [
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0007",
+    "name": "Alpha",
+    "category": "Clothing",
+    "price": 51.32,
+    "stock": 889,
+    "rating": 3.6,
+    "in_stock": true,
+    "tags": [
+      "imported",
+      "sale",
+      "limited"
+    ]
+  },
+  {
+    "product_id": "P0008",
+    "name": "Zeta",
+    "category": "Toys",
+    "price": 110.14,
+    "stock": 994,
+    "rating": 3.0,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0009",
+    "name": "Delta",
+    "category": "Electronics",
+    "price": 444.25,
+    "stock": 26,
+    "rating": 3.6,
+    "in_stock": true,
+    "tags": [
+      "sale",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0010",
+    "name": "Gamma",
+    "category": "Books",
+    "price": 19.29,
+    "stock": 471,
+    "rating": 4.7,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0011",
+    "name": "Gamma",
+    "category": "Electronics",
+    "price": 329.81,
+    "stock": 973,
+    "rating": 3.9,
+    "in_stock": true,
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0012",
+    "name": "Zeta",
+    "category": "Clothing",
+    "price": 164.97,
+    "stock": 56,
+    "rating": 4.5,
+    "in_stock": false,
+    "tags": [
+      "limited"
+    ]
+  },
+  {
+    "product_id": "P0013",
+    "name": "Gamma",
+    "category": "Books",
+    "price": 123.84,
+    "stock": 789,
+    "rating": 4.7,
+    "in_stock": true,
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0014",
+    "name": "Beta",
+    "category": "Food",
+    "price": 390.85,
+    "stock": 291,
+    "rating": 4.3,
+    "in_stock": true,
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "product_id": "P0015",
+    "name": "Delta",
+    "category": "Food",
+    "price": 369.27,
+    "stock": 943,
+    "rating": 3.6,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "product_id": "P0016",
+    "name": "Epsilon",
+    "category": "Books",
+    "price": 247.36,
+    "stock": 906,
+    "rating": 3.8,
+    "in_stock": false,
+    "tags": [
+      "imported",
+      "limited",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0017",
+    "name": "Delta",
+    "category": "Clothing",
+    "price": 308.86,
+    "stock": 444,
+    "rating": 4.3,
+    "in_stock": true,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "product_id": "P0018",
+    "name": "Gamma",
+    "category": "Food",
+    "price": 339.84,
+    "stock": 663,
+    "rating": 4.4,
+    "in_stock": true,
+    "tags": [
+      "imported",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0019",
+    "name": "Gamma",
+    "category": "Food",
+    "price": 221.49,
+    "stock": 928,
+    "rating": 4.6,
+    "in_stock": false,
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0020",
+    "name": "Zeta",
+    "category": "Clothing",
+    "price": 421.56,
+    "stock": 535,
+    "rating": 3.9,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "imported",
+      "sale"
+    ]
+  },
+  {
+    "product_id": "P0021",
+    "name": "Alpha",
+    "category": "Toys",
+    "price": 215.33,
+    "stock": 96,
+    "rating": 3.9,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0022",
+    "name": "Epsilon",
+    "category": "Electronics",
+    "price": 61.4,
+    "stock": 677,
+    "rating": 3.9,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "imported"
+    ]
+  },
+  {
+    "product_id": "P0023",
+    "name": "Delta",
+    "category": "Clothing",
+    "price": 160.4,
+    "stock": 741,
+    "rating": 3.9,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "imported",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0024",
+    "name": "Beta",
+    "category": "Books",
+    "price": 43.72,
+    "stock": 618,
+    "rating": 3.5,
+    "in_stock": true,
+    "tags": [
+      "imported",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P0025",
+    "name": "Alpha",
+    "category": "Food",
+    "price": 62.76,
+    "stock": 175,
+    "rating": 4.3,
+    "in_stock": false,
+    "tags": [
+      "limited",
+      "imported",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0026",
+    "name": "Epsilon",
+    "category": "Toys",
+    "price": 183.56,
+    "stock": 689,
+    "rating": 4.9,
+    "in_stock": false,
+    "tags": [
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0027",
+    "name": "Beta",
+    "category": "Electronics",
+    "price": 99.45,
+    "stock": 835,
+    "rating": 3.0,
+    "in_stock": true,
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0028",
+    "name": "Delta",
+    "category": "Books",
+    "price": 326.62,
+    "stock": 446,
+    "rating": 4.7,
+    "in_stock": true,
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "product_id": "P0029",
+    "name": "Delta",
+    "category": "Books",
+    "price": 239.62,
+    "stock": 22,
+    "rating": 3.2,
+    "in_stock": true,
+    "tags": [
+      "limited",
+      "imported",
+      "popular"
+    ]
+  },
+  {
+    "product_id": "P0030",
+    "name": "Alpha",
+    "category": "Food",
+    "price": 294.69,
+    "stock": 206,
+    "rating": 3.6,
+    "in_stock": false,
+    "tags": [
+      "sale"
+    ]
+  }
+]

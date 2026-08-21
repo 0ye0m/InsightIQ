@@ -1,0 +1,8 @@
+id,  name  ,email ,department,role
+1,John Smith,john@example.com,Engineering,developer
+2,  Jane Doe  ,jane@example.com,engineering,Developer
+3,Bob Jones,bob@example.com, ENGINEERING ,DEVELOPER
+4,  alice  wang  ,alice@example.com,Engineering,Developer  
+5,Charlie Brown,charlie @ example.com,Sales,sales rep
+6,Dana White,dana@example.com,  sales  ,Sales Rep
+7,Eve Black,eve@example.com,Marketing,MARKETING MANAGER
